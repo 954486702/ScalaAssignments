@@ -1,0 +1,2 @@
+# ScalaAssignments
+KCL scala assignments
